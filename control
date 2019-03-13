@@ -1,0 +1,9 @@
+Package: CenteredDate
+Name: CenteredDate
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Centers the date in the spotlight page and Notification Center. 
+Maintainer: dahamtob
+Author: dahamtob
+Section: Tweaks
